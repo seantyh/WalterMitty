@@ -1,5 +1,4 @@
 import numpy as np
-from numpy.core.fromnumeric import clip
 import torch
 import torch.nn as nn
 from transformers import DistilBertModel, DistilBertTokenizer, DistilBertConfig
